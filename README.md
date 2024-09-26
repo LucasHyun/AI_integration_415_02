@@ -1,2 +1,1 @@
-Sample Java project containing examples for the CPSC-415 course on AI Integration
-at Trinity College (Hartford), Fall 2024.
+AI_integration_HW repo (Trincoll_415_HW collections)
